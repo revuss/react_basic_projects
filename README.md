@@ -1,5 +1,5 @@
 # react_basic_project
-## responsive finctions of products in react using of
+## responsive functions of products in react using of
 ### - JSX
 ### - React Inline style c
 ### - ReactDOM
